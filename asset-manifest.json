@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shit-rag-website/static/css/main.6a17e762.css",
+    "main.js": "/shit-rag-website/static/js/main.95485ead.js",
+    "index.html": "/shit-rag-website/index.html",
+    "main.6a17e762.css.map": "/shit-rag-website/static/css/main.6a17e762.css.map",
+    "main.95485ead.js.map": "/shit-rag-website/static/js/main.95485ead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a17e762.css",
+    "static/js/main.95485ead.js"
+  ]
+}
